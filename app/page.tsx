@@ -7,6 +7,7 @@ export default function Page() {
     <>
       <h1>App Router</h1>
       <p>Hoan</p>
+      <p>Welcome to Ha Nam</p>
     </>
   );
 }
